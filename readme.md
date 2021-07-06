@@ -10,10 +10,10 @@
 
 
 ## 프로젝트 구조
-* 폴더명 `Algorithm with ${깃허브아이디}`의 양식을 따릅니다. 
+* 폴더명 `Algorithm with ${깃허브아이디}`의 양식을 따릅니다. <br>
 (ex. Algorithm with usreon)
 
-* 파일명 `YYYYMMDD.원하는 파일양식`의 양식을 따릅니다.
+* 파일명 `YYYYMMDD.원하는 파일양식`의 양식을 따릅니다. <br>
 (ex. 20210706.md)
 
 ## 커밋 규칙
@@ -23,5 +23,3 @@
 문제를 풀다가 토론하고 싶은 내용이 있거나 질문이 생기면 [이슈](https://github.com/usreon/Do-Algorithm-Everyday/issues)에 등록해주시면 됩니다.
 
 ## History will be kind to me for I intend to write it, Winston Churchill
-
-
