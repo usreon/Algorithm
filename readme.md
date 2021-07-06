@@ -1,5 +1,7 @@
+
+
 # 알고리즘 문제 풀이
-주말 제외 하루에 하나씩 각자 지정한 알고리즘 문제를 풀고 그에 대한 개념을 정리하는 스터디입니다.
+주말 제외 하루에 하나씩 각자 지정한 알고리즘 문제를 풀고 그에 대한 개념을 정리하는 스터디입니다. <br>
 파일 형식에는 제한이 없습니다.
 
  ## Contributer
@@ -23,3 +25,4 @@
 문제를 풀다가 토론하고 싶은 내용이 있거나 질문이 생기면 [이슈](https://github.com/usreon/Do-Algorithm-Everyday/issues)에 등록해주시면 됩니다.
 
 ## History will be kind to me for I intend to write it, Winston Churchill
+
