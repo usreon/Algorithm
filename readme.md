@@ -7,13 +7,14 @@
 
 # 개인 발표
 스터디원 모두 주 1회 화상 회의에 참여합니다. <br> 
-컴퓨터 공학에 관한 주제를 하나 선정하고, 발표를 하며 피드백 시간을 갖습니다. 발표 시간은 최소 5분 이상 10분 내외이며 시간 초과에 대한 부분은 유동적으로 처리합니다. 
+컴퓨터 공학에 관한 주제를 하나 선정하고, 발표를 하며 피드백 시간을 갖습니다. <br>
+발표 시간은 최소 5분 이상 10분 내외이며 시간 초과에 대한 부분은 유동적으로 처리합니다. 
 
  + 날짜 : 매주 목요일 
  + 시간 : 오후 7시 30분
 
 
- ## Contributer
+ ## Contributors
  
 |<img src="https://avatars.githubusercontent.com/u/79883861?v=4" width="100%">|<img src="https://avatars.githubusercontent.com/u/79002628?v=4" width="100%">|<img src="https://avatars.githubusercontent.com/u/52775482?v=4" width="100%">| <img src="https://avatars.githubusercontent.com/u/42970246?v=4" width="100%"> |<img src="https://avatars.githubusercontent.com/u/79203932?v=4" width="100%">|
 | ----| ---- | ---- | ---- | ---- |
