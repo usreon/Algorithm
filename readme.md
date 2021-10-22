@@ -29,10 +29,6 @@
 (ex. 20210706.md)
 
 
-## 커밋 규칙
-올바른 커밋 습관을 들이기 위해서 [커밋 규칙](https://chris.beams.io/posts/git-commit)을 읽고 커밋 메세지를 작성해주세요.
-
-
 ## 질문
 문제를 풀다가 토론하고 싶은 내용이 있거나 질문이 생기면 [이슈](https://github.com/usreon/Do-Algorithm-Everyday/issues)에 등록해주시면 됩니다.
 
